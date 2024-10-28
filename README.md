@@ -10,10 +10,10 @@ User_Negative_Count: Number of 1-star ratings given by each user.
 Multiple_Negative_Reviews: Binary feature indicating if a user has given more than one 1-star review.
 
 ## Key Files
-506_Midterm_Report.pdf: Final report detailing the methodology, features, and model performance.
+CS506_Midterm_Report.pdf: Final report detailing the methodology, features, and model performance.
 README.md: Project overview 
 
 ## Results and Limitations
 Local Accuracy: The model achieved 81.5% accuracy on the local test set.
 Competition Accuracy: The accuracy dropped to around 20% in the Kaggle competition, likely due to overreliance on average score and possible data drift.
-For more details, refer to the full report in 506_Midterm_Report.pdf.
+For more details, refer to the full report.
