@@ -11,14 +11,7 @@ Multiple_Negative_Reviews: Binary feature indicating if a user has given more th
 
 ## Key Files
 506_Midterm_Report.pdf: Final report detailing the methodology, features, and model performance.
-README.md: Project overview and setup instructions.
-Setup and Usage
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/username/repo-name.git
-cd repo-name
+README.md: Project overview 
 
 ## Results and Limitations
 Local Accuracy: The model achieved 81.5% accuracy on the local test set.
